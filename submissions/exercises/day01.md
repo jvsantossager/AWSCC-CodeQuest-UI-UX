@@ -26,7 +26,7 @@
 
 ### screenshot of playing the game **"It's Centred That"** and my feedback
 
-<img src="assets/dots.png">
+<img src="submissions/exercises/assets/dots.png">
 <br>Ready to include your output for **Day 1**? Let the customization begin! 🚀✨
 
 <!-- You may now delete and modify the content of this file -->
