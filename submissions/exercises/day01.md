@@ -26,7 +26,7 @@
 
 ### screenshot of playing the game **"It's Centred That"** and my feedback
 
-<img align="center" width="250px" src="D:\AWSCC-CodeQuest-UI-UX\dots.png">
+<img src="D:\AWSCC-CodeQuest-UI-UX\dots.png">
 <br>Ready to include your output for **Day 1**? Let the customization begin! 🚀✨
 
 <!-- You may now delete and modify the content of this file -->
