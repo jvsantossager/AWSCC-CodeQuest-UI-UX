@@ -28,5 +28,5 @@
 
 <img src="assets/dots.png">
 
-**FEEDBACK** 
+**FEEDBACK:** 
 The game was really hard but fun at the same time, with my first try of the game i got 5 points and then i tried again for a second time and i got 9 points.
